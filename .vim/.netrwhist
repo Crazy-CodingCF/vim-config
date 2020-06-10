@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/helen/class_code/newcode/mycounter_semutil'
+let g:netrw_dirhist_2='/home/helen/update_c_code/string_function'
+let g:netrw_dirhist_3='/usr/include'
+let g:netrw_dirhist_4='/home/linux/mini_uboot/common'
+let g:netrw_dirhist_5='/home/linux/TFTP_C程序实现/TFTP_OK_3/TFTP_client'
+let g:netrw_dirhist_6='/home/linux/vim'
+let g:netrw_dirhist_7='/etc/network'
+let g:netrw_dirhist_8='/home/linux/process'
+let g:netrw_dirhist_9='/home/linux/net/select/code/getsockopt/sockopt'

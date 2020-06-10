@@ -1,0 +1,2 @@
+ZoomWin.vba: call delete('/home/helen/.vim/plugin/ZoomWinPlugin.vim')|call delete('/home/helen/.vim/doc/ZoomWin.txt')|call delete('/home/helen/.vim/autoload/ZoomWin.vim')
+getscript.vba: call delete('/home/helen/.vim/plugin/getscriptPlugin.vim')|call delete('/home/helen/.vim/autoload/getscript.vim')|call delete('/home/helen/.vim/GetLatest/GetLatestVimScripts.dist')|call delete('/home/helen/.vim/doc/pi_getscript.txt')
